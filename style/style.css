@@ -129,10 +129,6 @@ a {
   width: fit-content;
 }
 
-.main-content {
-  /* background: linear-gradient(to bottom, #1a1a1a, #000000); */
-}
-
 .sticky-nav {
   position: sticky;
   top: 0;
@@ -145,9 +141,6 @@ a {
   z-index: 1000;
 }
 
-.sticky-nav-icons {
-  /* margin-left: 0.75rem; */
-}
 .sticky-nav-icons img {
   border-radius: 50%;
   /* background-color: black; */
@@ -280,7 +273,7 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 0.5rem 
+  margin-top: 0.5rem;
 }
 .progress-bar {
   margin-top: 0.5rem;
@@ -306,27 +299,27 @@ button {
   margin-top: -6px;
 }
 
-.album-img{
+.album-img {
   margin-left: 1rem;
   height: 3rem;
 }
 
-.album-info{
+.album-info {
   margin-left: 1rem;
   width: 10rem;
 }
 
-.album-title{
+.album-title {
   line-height: 1.8rem;
 }
-.album-composer{
+.album-composer {
   font-size: 0.7rem;
   font-weight: 400;
   opacity: 0.7;
   cursor: pointer;
 }
 
-.album-composer:hover{
+.album-composer:hover {
   opacity: 1;
   text-decoration: underline;
 }
@@ -336,30 +329,29 @@ button {
   margin-right: 1rem;
   cursor: pointer;
 }
-.album-controls-2{
+.album-controls-2 {
   height: 2rem;
 }
 
-.control-icons{
+.control-icons {
   cursor: pointer;
   margin-right: 0.3rem;
 }
-.control-icons:nth-child(1){
+.control-icons:nth-child(1) {
   height: 2.5rem;
 }
-.control-icons:nth-child(2){
+.control-icons:nth-child(2) {
   height: 2.5rem;
 }
-.control-icons:nth-child(3){
+.control-icons:nth-child(3) {
   height: 1.5rem;
 }
-.control-icons:nth-child(4){
+.control-icons:nth-child(4) {
   height: 1rem;
 }
-.control-icons:nth-child(5){
+.control-icons:nth-child(5) {
   height: 3rem;
 }
-
 
 .volume-bar {
   appearance: none;
