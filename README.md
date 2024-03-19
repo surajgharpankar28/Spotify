@@ -1,0 +1,18 @@
+# Spotify Homepage Clone
+
+This project is a simple clone of the Spotify homepage built using only HTML and vanilla CSS. It aims to replicate the look and feel of the original Spotify homepage.
+
+## Demo
+
+You can view the live demo [here](#) (insert link to your live demo).
+
+## Screenshots
+
+assets/Project_screenshot.jpg
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/spotify-homepage-clone.git
