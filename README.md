@@ -4,7 +4,7 @@ This project is a simple clone of the Spotify homepage built using only HTML and
 
 ## Demo
 
-You can view the live demo here (https://spotify-five-sigma.vercel.app).
+You can view the live demo here (https://spotify-ssg.vercel.app).
 
 ## Screenshots
 
